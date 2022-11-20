@@ -1,0 +1,12 @@
+package io.hexlet;
+
+import org.apache.commons.lang3.RandomUtils;
+
+public class One {
+    public static void main(String[] args) {
+        One.reverse();
+    }
+public static String reverse(String str) {
+	
+str.reverse
+}
